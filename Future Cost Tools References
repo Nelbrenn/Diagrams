@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T22:12:26.205Z" agent="5.0 (Windows)" etag="pakwnNhr8G8HQebMNmeR" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T22:13:36.977Z" agent="5.0 (Windows)" etag="-NmlrqX2WvEJ-bh7G0xM" version="21.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,13 +113,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EoiUfkapohLrTH4OacLS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VNl1uRuT17Q8demMaZT6-14" target="VNl1uRuT17Q8demMaZT6-36">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="162" y="250" />
-              <mxPoint x="372" y="250" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="EoiUfkapohLrTH4OacLS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VNl1uRuT17Q8demMaZT6-14" target="VNl1uRuT17Q8demMaZT6-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VNl1uRuT17Q8demMaZT6-14" value="Bill of Materials - Current" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="102" y="160" width="120" height="60" as="geometry" />
